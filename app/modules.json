@@ -1,0 +1,10 @@
+[
+{
+   "name":"appDemo",
+   "module": "./modules/demo/demo-module"
+},
+{
+   "name":"nxTeste",
+   "module": "./modules/teste/module"
+}
+]
